@@ -25,6 +25,29 @@ Este dashboard analisa dados por produto, marca, dia, ano, mês, fornecendo insi
 Uma análise de dados revela seu verdadeiro potencial quando se trata de tomar decisões informadas. Às vezes, informações que podem fazer toda a diferença passam despercebidas. Isso se aplica não apenas às vendas, mas a uma variedade de indicadores. Portanto, vamos continuar explorando e utilizando nossos dados para nosso sucesso!
 
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+While examining our sales data, I identified some interesting findings that could positively influence our business strategy. Here are the key insights:
+
+1️⃣ In February 2014, we noticed a drop in sales. A potential solution would be to run promotions or advertising campaigns from January onwards, to pitch sales and ensure a stronger February.
+
+2️⃣ We discovered that customers tend to spend more on the 5th of the month. This suggests an opportunity to target our sales and marketing efforts on that specific day, leveraging customer purchasing behavior.
+
+3️⃣ Flip-flop sales have historically been lower compared to other products. An effective strategy can be to create combo promotions, such as offering discounts when customers purchase shirts, our best-selling item. We might also consider rewarding customers who buy shirts with a voucher to save on future flip-flop purchases in-store.
+
+4️⃣ The average price of flip-flops in our store is R$25.37. Taking into account that the average ticket for customers who only buy shirts is R$119.22, we can explore the opportunity to create specific combo promotions for this group of customers.
+
+This dashboard analyzes data by product, brand, day, year, month, providing insights to develop action plans based on indicators and generate revenue.
+
+A data analysis reveals your true potential when it comes to making informed decisions. Sometimes information that can make all the difference goes unnoticed. This applies not only to sales, but to a variety of indicators. So let's keep exploring and utilizing our data for our success!
+
+
+
+
 ![02](https://github.com/GleisonAmorim/dashfaturamento/assets/54336609/7c5c54c4-b460-436b-ac6b-6942765dab38)
 
 ![01](https://github.com/GleisonAmorim/dashfaturamento/assets/54336609/379ea59e-39ca-42c4-b894-019b83250e14)
